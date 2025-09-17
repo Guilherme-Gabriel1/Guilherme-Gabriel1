@@ -34,6 +34,6 @@ Me mande uma mensagem!
 
 ## + Sobre mim
 
-- Estudando 2º semestre da Faculdade de ADS. 
+- Estudando 3º semestre da Faculdade de ADS. 
 - À procura de um emprego.
 - Apaixonado por tecnologia e com sede para aprender cada vez mais skills!
