@@ -28,9 +28,7 @@ Me mande uma mensagem!
 ## Tecnologias do semestre
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Java" src="https://github.com/user-attachments/assets/616cee8e-2452-4fcf-8786-ba37f696818d" />
-![Uploading image.png…]()
-" />
+    <img align="center" width="60px" alt="Java" src="https://github.com/user-attachments/assets/616cee8e-2452-4fcf-8786-ba37f696818d" />
 
 </div><br/>
 
