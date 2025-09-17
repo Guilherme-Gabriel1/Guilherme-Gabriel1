@@ -28,7 +28,9 @@ Me mande uma mensagem!
 ## Tecnologias do semestre
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="Java" src="https://github.com/user-attachments/assets/616cee8e-2452-4fcf-8786-ba37f696818d" />
+![Uploading image.png…]()
+" />
 
 </div><br/>
 
